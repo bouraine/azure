@@ -3,6 +3,7 @@
 ### commands
 
 `az account set --subscription "My Demos"`
+
 `az configure --defaults group=`
 
 ### CI/CD with Azure App service
