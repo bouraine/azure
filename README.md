@@ -1,5 +1,9 @@
 # Azure ressources
 
+### commands
+
+`az account set --subscription "My Demos"`
+
 ### CI/CD with Azure App service
 ![](cicd-azure-web-apps.svg)
 
